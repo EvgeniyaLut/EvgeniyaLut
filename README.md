@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">
   <a href="#">
@@ -8,8 +7,7 @@
 
 <img src="///" alt="The Unlimited" width"600">
 
-📫 How to reach me:
-<code> [<img src ="https://img.shields.io/badge/vk.com=white">](https://vk.com/id847688252)</code>
+
 
 ![Static Dadge](https://img.shields.io/badge/py-python-blue?logo=python)  ![Static Dadge](https://img.shields.io/badge/-autocad-red?style=plastic&logo=autocad)
 
