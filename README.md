@@ -5,8 +5,17 @@
   </a>
 </h1>
 
-<img src="///" alt="The Unlimited" width"600">
+<img src="https://gifs.ru/embed/bc3feb531e764adfbea038909d6de18dcbbc375caf184f76bb5da71755611699">
 
+
+> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+
+<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
+
+-   🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
+-   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
+-   💬 AMA, I am happy to help!
+-   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
 
 
 ![Static Dadge](https://img.shields.io/badge/py-python-blue?logo=python)  ![Static Dadge](https://img.shields.io/badge/-autocad-red?style=plastic&logo=autocad)
