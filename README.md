@@ -8,14 +8,11 @@
 <img src="https://github.com/EvgeniyaLut/EvgeniyaLut/blob/main/%D1%88%D0%BB%D1%8F%D0%BF%D1%8B.gif">
 
 
-> <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
 
--   🔭 I’m currently working on projects available at [devChallenges.io](https://devchallenges.io/) .
+-   🔭 I’m currently working on projects available at [urban-university.ru](https://urban-university.ru/) .
 -   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
--   💬 AMA, I am happy to help!
--   📥 Drop your queries <a target="_blank" href="https://mailhide.io/e/uOjPBy2V">here</a>.
+
 
 
 ![Static Dadge](https://img.shields.io/badge/py-python-blue?logo=python)  ![Static Dadge](https://img.shields.io/badge/-autocad-red?style=plastic&logo=autocad)
