@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img src="https://gifs.ru/embed/bc3feb531e764adfbea038909d6de18dcbbc375caf184f76bb5da71755611699">
+<img src="">
 
 
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
