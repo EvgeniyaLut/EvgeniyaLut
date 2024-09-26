@@ -9,7 +9,7 @@
 
 
 
--   🔭 I’m currently working on projects available at [urban-university.ru](https://urban-university.ru/) .
+-   🔭 I’m currently working on projects available 
 -   🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
 
 ## My tools
