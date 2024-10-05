@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img src="https://github.com/EvgeniyaLut/EvgeniyaLut/blob/main/%D1%82%D0%B0%D0%BD%D0%B5%D1%86.gif">
+<img src="https://github.com/EvgeniyaLut/EvgeniyaLut/blob/main/be44f0d9eca02f4f33985b5454534ac73d71bc891844e6a7fbb8b7e76f39bbd3.gif">
 
 
 
